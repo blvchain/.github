@@ -1,3 +1,3 @@
-## Matin ramznegar
+# BLVchain
 
-This is a private licenced app that written with Golang and make a ligh blockchain for office usage to make strong security for data!
+This is a public open source blockchain that make sure your data in your organization is safe!
