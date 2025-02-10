@@ -6,4 +6,4 @@ This is a private licenced blockchain that makes sure your data in your organiza
 
 ## Whitepaper
 
-You can download whitepaper from: 
+You can download whitepaper from: <https://github.com/blvchain/.github/blob/main/BLVchain_whitepaper.pdf>
